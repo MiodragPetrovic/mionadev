@@ -1,6 +1,9 @@
 html body {
     padding: 0px;
     margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(90deg, rgba(168,0,0,1) 0%, rgba(168,0,0,1) 26%, rgba(255,65,53,1) 100%);
+
 }
 
 header {
@@ -14,12 +17,13 @@ header {
 
 ul li {
     display: inline-flex;
+    margin-left: 10PX;
 }
 
 a {
     text-decoration: none;
     font-size: 1.25rem;
-    color: #000;
+    color: #e5e5e5;
 }
 
 main {
