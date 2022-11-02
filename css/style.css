@@ -21,3 +21,8 @@ a {
     font-size: 1.25rem;
     color: #000;
 }
+
+main {
+    max-width: 1100px;
+    margin: auto;
+}
