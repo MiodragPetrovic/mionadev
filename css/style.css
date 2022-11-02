@@ -12,17 +12,18 @@ header {
     margin: auto;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 5px 20px 5px;
+    padding: 30px 5px 20px 5px;
 }
 
 ul li {
     display: inline-flex;
-    margin-left: 10PX;
+    margin-left: 20px;
+    text-transform: uppercase;
 }
 
 a {
     text-decoration: none;
-    font-size: 1.25rem;
+    font-size: 1.18rem;
     color: #e5e5e5;
 }
 
